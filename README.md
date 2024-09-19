@@ -1,7 +1,6 @@
 # Investment Avenues Dashboard (Interactive Dashboard using Power BI)
 
 ## Project Objective
-The primary objective of this Power BI project is to analyze and visualize various aspects of investment data to derive actionable insights. The project focuses on understanding investment behaviors and preferences through comprehensive data analysis and visualization. Key objectives include:
 
 The primary objective of this Power BI project is to analyze and visualize various aspects of investment data to derive actionable insights. The project focuses on understanding investment behaviors and preferences through comprehensive data analysis and visualization. Key objectives include:
 	 **Data Exploration and Summary** 
